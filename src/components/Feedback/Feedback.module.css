@@ -1,0 +1,17 @@
+.list {
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+.item {
+  padding: 8px;
+  border: 1px solid;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(128, 128, 128, 0.9);
+}
+
+.itemColor {
+  background-color: greenyellow;
+  color: black;
+}
